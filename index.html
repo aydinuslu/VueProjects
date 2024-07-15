@@ -41,7 +41,7 @@
 
         <div v-if="showBooks">
             <ul>
-                <li v-for="book in books" v-bind:class="{ fav: book.isFav }">
+                <li v-for="book in books" v-bind:class="{ fav: book.isFav }" v-on:click="toggleFav(book)">
                     <img v-bind:src="book.img" v-bind:alt="book.title">
                     <h3>{{ book.title }}</h3>
                     <p>{{ book.author }}</p>
