@@ -1,3 +1,3 @@
 ## Screenshot
 
-![Screenshot of example](./images/screenshot1.png)
+![Screenshot of example](./images/Screenshot2.png)
