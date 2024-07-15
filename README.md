@@ -1,5 +1,8 @@
 # modal-project
 
+# screnshot
+![Screenshot of example](./src/assets/Screenshot4.png)
+
 ## Project setup
 ```
 npm install
