@@ -1,7 +1,7 @@
 # modal-project
 
 # screnshot
-![Screenshot of example](./src/assets/Screenshot4.png)
+![Screenshot of example](./src/assets/Screenshot5.png)
 
 ## Project setup
 ```
