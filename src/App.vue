@@ -13,14 +13,9 @@
     </Modal>
   </div>
   <div v-if="showModalTwo">
-    <Modal theme="" @close="toggleModalTwo">
-      <template v-slot:links>
-            <a href="#">sign up now (second modal)</a>
-            <a href="#">more info (second modal)</a>
-      </template>
-      
-      <h1>Ninja Giveaway!</h1>
-      <p>Grab your ninja swag for half price!</p>
+    <Modal @close="toggleModalTwo">      
+      <h1>Sign up for the newsletter</h1>
+      <p>For updates and promo codes!</p>
     </Modal>
   </div>
   <button @click.alt="toggleModal">open modal (alt + click)</button>
