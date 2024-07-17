@@ -1,7 +1,9 @@
 # modal-project
 
-# screnshot
-![Screenshot of example](./src/assets/Screenshot6.png)
+# screenshot
+# when you click inside red area, modal window doesn't close
+# to close the modal window you need to click grey backdrop area
+![Screenshot of example](./src/assets/Screenshot7.png)
 
 ## Project setup
 ```
