@@ -1,10 +1,10 @@
 # modal-project
 
 # screenshot
-### when you click inside red area, modal window doesn't close
+### when you click inside modal rectangle area, modal window doesn't close
 ### to close the modal window you need to click grey backdrop area
 ![Screenshot of example](./src/assets/Screenshot7.png)
-![Screenshot of example](./src/assets/Screenshot8.png)
+![Screenshot of example](./src/assets/Screenshot9.png)
 ## Project setup
 ```
 npm install
