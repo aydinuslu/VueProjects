@@ -4,7 +4,11 @@
 # screenshot
 ### when you click play, there is a random delay timer starts
 ### then delay timeouts and a block pops up
-![Screenshot of example](./src/assets/Screenshot1.png)
+### a reaction timer starts, starts to increment each 10ms
+### then after a while user clicks to the green area
+### delay time and reaction time is calculated and printed to console
+
+![Screenshot of example](./src/assets/Screenshot2.png)
 
 ## Project setup
 ```
