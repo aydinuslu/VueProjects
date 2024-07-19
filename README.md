@@ -1,5 +1,11 @@
 # reaction-timer
 
+
+# screenshot
+### when you click play, there is a random delay timer starts
+### then delay timeouts and a block pops up
+![Screenshot of example](./src/assets/Screenshot1.png)
+
 ## Project setup
 ```
 npm install
