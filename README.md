@@ -9,7 +9,7 @@
 ### reaction time is calculated and printed to screen
 
 ![Screenshot of example](./src/assets/Screenshot3.png)
-![Screenshot of example](./src/assets/Screenshot4.png)
+![Screenshot of example](./src/assets/Screenshot5.png)
 
 
 ## Project setup

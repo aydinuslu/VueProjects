@@ -4,16 +4,17 @@
   <!-- The video I am watching at:
    https://youtu.be/bc6czIBLKTg?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&t=644-->
    
-  <Block v-if="isPlaying" v-bind:delay="delay" @end="endGame"/>
-   <p v-if="showResult">Reaction time: {{ score }} ms</p>
+  <Block v-if="isPlaying" v-bind:delay="delay" @end="endGame"/>   
+  <Results v-if="showResult" v-bind:score="score"/>
 </template>
 
 
 <script>
 import Block from './components/Block.vue';
+import Results from './components/Results.vue';
 export default {
   name: 'App',
-  components: {Block},
+  components: {Block, Results},
   data() {
     return {
       isPlaying: false,
