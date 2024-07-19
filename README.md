@@ -6,10 +6,10 @@
 ### then delay timeouts and a block pops up
 ### a reaction timer starts, starts to increment each 10ms
 ### then after a while user clicks to the green area
-### reaction time is calculated and printed to screen
+### reaction time and rank are calculated and printed to results component
 
 ![Screenshot of example](./src/assets/Screenshot3.png)
-![Screenshot of example](./src/assets/Screenshot5.png)
+![Screenshot of example](./src/assets/Screenshot6.png)
 
 
 ## Project setup
