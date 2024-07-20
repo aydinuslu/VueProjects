@@ -2,7 +2,7 @@
 
 # screenshot
 ![Screenshot of example](./src/assets/Screenshot9.png)
-![Screenshot of example](./src/assets/Screencast1.webm)
+![Screenshot of example](./src/assets/Screencast1.gif)
 
 
 
