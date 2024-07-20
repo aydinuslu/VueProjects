@@ -1,5 +1,9 @@
 # web-form
 
+# screenshot
+![Screenshot of example](./src/assets/Screenshot11.png)
+
+
 ## Project setup
 ```
 npm install
