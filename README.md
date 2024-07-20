@@ -1,8 +1,10 @@
 # ninja-jobs
 
 # screenshot
-![Screenshot of example](./src/assets/Screenshot9.png)
-![Screenshot of example](./src/assets/Screencast1.gif)
+![Screenshot of example](./src/assets/Screenshot10.png)
+![Screenshot of example](./src/assets/Screencast11.png)
+![Screenshot of example](./src/assets/Screencast12.png)
+
 
 
 
