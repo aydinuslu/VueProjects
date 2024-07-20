@@ -2,8 +2,8 @@
 
 # screenshot
 ![Screenshot of example](./src/assets/Screenshot10.png)
-![Screenshot of example](./src/assets/Screencast11.png)
-![Screenshot of example](./src/assets/Screencast12.png)
+![Screenshot of example](./src/assets/Screenshot11.png)
+![Screenshot of example](./src/assets/Screenshot12.png)
 
 
 
