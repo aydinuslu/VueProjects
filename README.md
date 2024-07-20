@@ -1,7 +1,9 @@
 # web-form
 
 # screenshot
-![Screenshot of example](./src/assets/Screenshot18.png)
+![Screenshot of example](./src/assets/Screenshot20.png)
+![Screenshot of example](./src/assets/Screenshot21.png)
+
 
 
 ## Project setup
