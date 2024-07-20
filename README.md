@@ -1,8 +1,8 @@
 # ninja-jobs
 
 # screenshot
-![Screenshot of example](./src/assets/Screenshot8.png)
-![Screenshot of example](./src/assets/Screenshot7.png)
+![Screenshot of example](./src/assets/Screenshot9.png)
+![Screenshot of example](./src/assets/Screencast1.webm)
 
 
 
