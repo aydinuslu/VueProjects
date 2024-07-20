@@ -1,9 +1,7 @@
 # ninja-jobs
 
 # screenshot
-![Screenshot of example](./src/assets/Screenshot1.png)
-![Screenshot of example](./src/assets/Screenshot2.png)
-![Screenshot of example](./src/assets/Screenshot4.png)
+![Screenshot of example](./src/assets/Screenshot5.png)
 
 
 
